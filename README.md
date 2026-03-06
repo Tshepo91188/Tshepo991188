@@ -1,1 +1,1 @@
-# Tshepo991188
+Hi there! I’m Tshepo Kgwedi, a passionate technology enthusiast focused on building reliable, scalable data solutions. My main interests lie in data engineering, where I enjoy turning raw data into meaningful, actionable systems. I’m also growing my skills in software engineering and cybersecurity, constantly exploring how these areas connect to create secure and efficient end‑to‑end solutions. I love learning, experimenting, and building projects that help me become a stronger and more well‑rounded engineer.
